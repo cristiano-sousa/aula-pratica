@@ -1,0 +1,7 @@
+{
+  "name": "aula-pratica",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Testes fictícios executados com sucesso!\" && exit 0"
+  }
+}
